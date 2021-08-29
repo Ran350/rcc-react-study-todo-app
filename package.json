@@ -5,6 +5,7 @@
   "author": "Hoshi Ran",
   "private": true,
   "license": "MIT",
+  "homepage": "https://ran350.github.io/rcc-react-study-todo-app/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
